@@ -3,7 +3,7 @@ It is just a box that recieves 4 balls that play sound and animations when the b
 
 This is a rubbish code but works for what is supposed to.
 
-# Wiriing:
+# Wiring:
 ## Components:
 - Arduino Nano
 - DFPlayer mini
